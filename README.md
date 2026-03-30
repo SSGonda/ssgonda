@@ -1,20 +1,24 @@
-## Yo! 🦒
+## Welcome! 🦒
 
+# Stephen James Gonda
+
+
+A storyteller through data.
 
 
 ## Skills and Tech.
 
 ### Web
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,react,vue,tailwind,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,react,vue,tailwind,postgres,mongo)](#wribit-)
 
 ### Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn)](#2025-philippine-elections-in-a-nutshell-hindsight-is-20-25-️)
 
 ### Cloud and Systems
 
-[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,aws,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,aws,terraform)](#wribit-)
 
 ## I'm working on
 
@@ -27,7 +31,7 @@
 
 A notes app with sandboxed code execution, LaTeX support and Realtime Collaboration.
 
-🌐 [See it in action!](wribit.com)
+🌐 [See it in action!](https://wribit.com)
 
 ### 2025 Philippine Elections in a Nutshell (Hindsight is 20-25!) 🗳️
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
@@ -37,7 +41,7 @@ A notes app with sandboxed code execution, LaTeX support and Realtime Collaborat
 
 An exploratory data analysis and linear model of the 2025 Philippine Midterm Elections from scraped social media posts on Twitter; sentiments analyzed through an agentic workflow with `Llama-4-Maverick-17B-128E-Instruct`.
 
-🔗 [Repo](https://github.com/SSGonda/2025ElectionsInANutshell) | 🌐 [See it in action!](nutelex.wribit.com)
+🔗 [Repo](https://github.com/SSGonda/2025ElectionsInANutshell) | 🌐 [See it in action!](https://nutelex.wribit.com)
 
 ### The UP ParseNet 📰
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
@@ -45,7 +49,7 @@ An exploratory data analysis and linear model of the 2025 Philippine Midterm Ele
 
 A lightweight news site with a Content Management System (CMS) for The UP Parser!
 
-🔗 [Repo](https://github.com/nViNova/parser) | 🌐 [See it in action!](theupparser.pages.dev)
+🔗 [Repo](https://github.com/nViNova/parser) | 🌐 [See it in action!](https://theupparser.pages.dev)
 
 ### Seconds to action: Spatiotemporal analysis and Cellular Automata Modelling of crowd-sourced Philippine Earthquake Data 📊
 
@@ -64,7 +68,7 @@ A scientific computing project to produce synthetic earthquake data which mimics
 
 A LAN multiplayer bomberman clone with a thin-client, thick-server architecture capable of cross platform play.
 
-🔗 [Repo](https://github.com/SSGonda/OnlineBomberClone-CS150)
+🔗 [Repo](https://github.com/SSGonda/BomberLAN)
 
 ### MNIST - Number Draw! ✏️
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
@@ -74,6 +78,19 @@ A short data science project that performs inferences on handwritten digits with
 
 🔗 [Repo](https://github.com/nViNova/MNIST) | 🌐 [See it in action](https://kunopsim.streamlit.app/)
 
+### AssemblyPythonCeption 🐍
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+
+An assembler and emulator on a custom instruction set based on the Harvard Architecture made with Python and visuals shown using Pyxel.
+A snake game was made to demonstrate the emulator and monitor made with Pyxel.
+
+🔗 [Repo](https://github.com/SSGonda/AssemblyPythonCeption)
+
+## Let's Talk.
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sjgonda/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:stephenjgonda@gmail.com)
 
 <!--
 **SSGonda/ssgonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
